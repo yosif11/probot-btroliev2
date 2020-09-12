@@ -1,1 +1,2 @@
-# probot-btroliev2
+# Probot ✨
+Epic Discord Bot
